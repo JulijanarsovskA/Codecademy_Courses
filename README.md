@@ -1,4 +1,4 @@
-# Codecademy-courses
+# Codecademy_Courses
 
 Codecademy Data Science projects:
 - Portfolio projects - builded on own development environment
